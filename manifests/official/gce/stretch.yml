@@ -30,8 +30,7 @@ packages:
     - google-cloud-sdk
     - google-compute-engine
     - google-osconfig-agent
-    - python-google-compute-engine
-    - python3-google-compute-engine
+    - google-guest-agent
     - man
     - net-tools
     - python-crcmod
